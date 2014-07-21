@@ -1,0 +1,2 @@
+emberjs-project-template
+========================
